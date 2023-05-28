@@ -1,6 +1,7 @@
 package Main;
 
 public class Coord {
+
   public   int x;
 public int y;
 public Coord(int x,int y){
@@ -15,5 +16,6 @@ public Coord(int x,int y){
     return super.equals(o);
 
 }
+
 
 }
